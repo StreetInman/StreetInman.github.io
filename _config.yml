@@ -3,7 +3,7 @@ subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://StreetInman.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,10 +25,10 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author: Street INman
+author_bio: Hi, my name is Street Inman. I am a Computer Science student at the Arizona State University. I am passionate about software development and cybersecurity. I am always looking for new opportunities to learn and grow as a developer.
+author_email: "streetinman@gmail.com"
+author_location: Phoenix
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
@@ -51,10 +51,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: ASU
+                college_url: https://www.asu.edu
+                college_degree: Computer Science
+                description: Bachelor of Science
                 visibility: true
 
 # Projects
@@ -71,11 +71,11 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+# twitter_username: xplor4r
+github_username:  StreetInman
+instagram_username: street_inman
 # facebook_username: johndoe
-# linkedin_username: johndoe
+linkedin_username: Street Inman
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
